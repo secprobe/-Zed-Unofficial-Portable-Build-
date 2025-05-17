@@ -1,4 +1,4 @@
-# ⚠️ Unofficial Zed Build – Portable Release
+# ⚠️ Unofficial Zed Build – Portable Windows x86_64 (Rust)
 
 This is an **unofficial, non-commercial build** of the [Zed Editor](https://github.com/zed-industries/zed), compiled for portable use.
 
@@ -11,6 +11,9 @@ This is an **unofficial, non-commercial build** of the [Zed Editor](https://gith
 - Name: Zed (Unofficial Portable Build)
 - Source: https://github.com/zed-industries/zed
 - License: Business Source License 1.1 (BUSL-1.1)
+- Platform: Windows 10/11, 64-bit
+- Architecture: x86_64 (Rust native build)
+- Installation: None required (portable)
 
 ---
 
