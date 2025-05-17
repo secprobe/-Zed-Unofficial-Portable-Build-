@@ -44,4 +44,3 @@ You must not use the name "Zed" in any branding or advertising without permissio
 This repository is maintained by a third party and is not an official distribution channel of the Zed project.
 
 Use at your own risk.
-"""
