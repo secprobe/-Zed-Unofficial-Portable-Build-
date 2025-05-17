@@ -1,4 +1,4 @@
-# ⚠️ Unofficial Zed Build – Portable Windows x86_64 (Rust)
+# ⚠️ Unofficial Zed Build – Portable Windows x86_64
 
 This is an **unofficial, non-commercial build** of the [Zed Editor](https://github.com/zed-industries/zed), compiled for portable use.
 
